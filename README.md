@@ -7,3 +7,5 @@
 - for item in permutations(['a','b','c']):
 - print(item) 
 - returns all available permutations with ['a','b','c'] list
+- Description 
+- Returns permutations available in the list using recursion
