@@ -15,6 +15,6 @@ def permutation(list):
             res.append([curr] + j)            
     return res
 
-list = ['a', 'b', 'c']
-for item in permutation(list):
-    print(item)
+def permutate_list(list):
+    for item in permutation(list):
+        print(item)
